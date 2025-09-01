@@ -25,9 +25,4 @@ A Machine Learning project to predict car prices based on features like model, t
 - Scikit-learn  
 - Matplotlib, Seaborn  
 
----
 
-## How to Run
-1. Clone the repository:  
-```bash
-git clone https://github.com/yourusername/repo_name.git
