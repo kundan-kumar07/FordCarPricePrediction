@@ -56,10 +56,5 @@ A **Machine Learning web app** to predict **Ford car prices** based on features 
 
 ✅ **Deployed live on Streamlit Cloud**  
 
----
 
-### Optional: Badges for a professional GitHub look
-```markdown
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-orange)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-green)
+
