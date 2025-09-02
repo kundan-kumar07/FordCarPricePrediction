@@ -1,4 +1,4 @@
-Ford Car Price Predictor 🚗💰
+**Ford Car Price Predictor 🚗💰**
 
 A Machine Learning web app to predict Ford car prices based on features like model, transmission, mileage, fuel type, tax, MPG, and engine size.
 
